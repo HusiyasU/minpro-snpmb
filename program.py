@@ -47,17 +47,17 @@ def menu_admin():
         print("3. Ubah Data Pendaftar")
         print("4. Hapus Data Pendaftar")
         print("5. Keluar?")
-        choice = input("Pilih menu: ")
+        pilih = input("Pilih menu: ")
 
-        if choice == '1':
+        if pilih == '1':
             tambah_pendaftar()
-        elif choice == '2':
+        elif pilih == '2':
             lihat_pendaftar()
-        elif choice == '3':
+        elif pilih == '3':
             ubah_pendaftar()
-        elif choice == '4':
+        elif pilih == '4':
             hapus_pendaftar()
-        elif choice == '5':
+        elif pilih == '5':
             break
         else:
             print("Pilihan tidak ada!")
