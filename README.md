@@ -2,9 +2,9 @@
 
 # Profil Diri
 
-Nama : Husaini Iyastama H
-NIM : 2409116038
-Kelas : A
+Nama : Husaini Iyastama H,
+NIM : 2409116038,
+Kelas : A,
 Tema : Pendaftaran SNPMB(SNBP dan SNBP)
 
 # Flowchart
