@@ -58,7 +58,22 @@ Dengan menginputkan angka 2 admin dapat melihat list pendaftar yang sebelumnya t
 
 ![image](https://github.com/user-attachments/assets/f8b81e7f-a5b9-4107-a54e-16b998195ae5)
 
-Gambar diatas adalah contoh mengubah data, disini nama Kevin/ berubah menjadi Kevin. 
+Gambar diatas adalah contoh mengubah data, disini nama Kevin/ berubah menjadi Kevin.
+Jenis pendaftarannya juga bisa diganti
+
+![image](https://github.com/user-attachments/assets/5dacebdb-521c-4976-9042-e0e55009a3fd)
+![image](https://github.com/user-attachments/assets/799db85b-088b-455a-90e9-26ed7cee8967)
+
+Dan tentunya akan mengubah tampilan list pada tabel dan file json nya
+
+* **Jika admin memasukkan Nilai yang tidak valid**
+
+  ![image](https://github.com/user-attachments/assets/7120dd9c-80fd-48b6-b5b5-1184542525b7)
+
+  akan ada peringatan bahwa nilai tersebut tidak valid dan otomatis kembali ke menu admin
+
+
+
 
 
 
