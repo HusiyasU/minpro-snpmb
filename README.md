@@ -62,6 +62,7 @@ Gambar diatas adalah contoh mengubah data, disini nama Kevin/ berubah menjadi Ke
 Jenis pendaftarannya juga bisa diganti
 
 ![image](https://github.com/user-attachments/assets/5dacebdb-521c-4976-9042-e0e55009a3fd)
+
 ![image](https://github.com/user-attachments/assets/799db85b-088b-455a-90e9-26ed7cee8967)
 
 Dan tentunya akan mengubah tampilan list pada tabel dan file json nya
@@ -71,6 +72,33 @@ Dan tentunya akan mengubah tampilan list pada tabel dan file json nya
   ![image](https://github.com/user-attachments/assets/7120dd9c-80fd-48b6-b5b5-1184542525b7)
 
   akan ada peringatan bahwa nilai tersebut tidak valid dan otomatis kembali ke menu admin
+
+4. Hapus Data Pendaftar
+
+* **Before**
+
+![image](https://github.com/user-attachments/assets/127bbb99-c3c1-48c1-9c69-639bd28efed2)
+
+* **After**
+
+![image](https://github.com/user-attachments/assets/d6500275-6882-4aad-90a5-a0792871fb92)
+
+Terlihat pada No Pendaftar "2" telah terhapus saat admin menggunakan fitur Hapus barang
+
+![image](https://github.com/user-attachments/assets/8f683a28-4411-4c1c-8a10-28a3e3c35363)
+Juga terhapus di 'pendaftars.json' nya
+
+5. Keluar
+
+![image](https://github.com/user-attachments/assets/615d1548-d000-4cf4-b574-ece9420fc42a)
+
+Jika admin menginput angka 5 untuk keluar maka program akan berhenti.
+
+
+
+
+
+
 
 
 
