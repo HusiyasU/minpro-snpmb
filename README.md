@@ -100,7 +100,19 @@ Jika admin menginput angka 5 untuk keluar maka program akan berhenti.
 
 Maka otomatis program akan memberi peringatan "Pilihan tidak ada!" dan Kembali ke menu admin
 
-# Menu User
+# Mode User
+
+![image](https://github.com/user-attachments/assets/bb99e534-714a-412f-b22a-cd0c058922f6)
+
+Pada Menu User setelah memasukkan username dan password yang benar, user dapat menginputkan nama dan jenis pendaftaran SNPMB mereka
+
+![image](https://github.com/user-attachments/assets/96a4db33-91eb-412d-9be6-21b82a7aa689)
+
+![image](https://github.com/user-attachments/assets/64cc7985-4a7a-4494-9957-b5cad84cd31c)
+
+Setelah itu data yang diinputkan user akan tersimpan di file 'pendaftars.json'
+
+
 
 
 
