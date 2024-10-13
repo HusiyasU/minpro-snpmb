@@ -94,6 +94,15 @@ Juga terhapus di 'pendaftars.json' nya
 
 Jika admin menginput angka 5 untuk keluar maka program akan berhenti.
 
+# <sub> Bagaimana saat di menu fitur Admin input angka yang bukan dari range 1-5? </sub>
+
+![image](https://github.com/user-attachments/assets/cab9e2d3-2498-41d9-8a58-de1a84493cb8)
+
+Maka otomatis program akan memberi peringatan "Pilihan tidak ada!" dan Kembali ke menu admin
+
+# Menu User
+
+
 
 
 
