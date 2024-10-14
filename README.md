@@ -9,7 +9,7 @@ Tema : Pendaftaran SNPMB(SNBP dan SNBP)
 
 # Flowchart
 
-![minpro-snpmb drawio](https://github.com/user-attachments/assets/798dc419-d378-42b4-9db7-960b7097ad33)
+![minpro-snpmb drawio](https://github.com/user-attachments/assets/684488d2-f2bc-4d7c-92e7-e6de72828093)
 
 # Menu Login
 
